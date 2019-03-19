@@ -53,7 +53,7 @@
   <ItemGroup>
      <Compile Include="Assets\heroControl.cs" />
  <Reference Include="Facebook.Unity.Settings">
- <HintPath>D:/Unity works/fighting/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
+ <HintPath>D:/Unity works/Unity-Fighting/fighting/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
  </Reference>
  <Reference Include="Vuforia.UnityExtensions.Editor">
  <HintPath>D:/Unity/Editor/Data/PlaybackEngines/VuforiaSupport/Managed/Editor/Vuforia.UnityExtensions.Editor.dll</HintPath>
